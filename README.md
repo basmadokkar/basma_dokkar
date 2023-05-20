@@ -1,5 +1,6 @@
-- 👋 Hi, I’m basma 
-- 👀 I’m interested in computer vision and NLP
+- 👋 Hi, I’m basma dokkar
+- 👀 I’m interested in Complex patterns, optimization, medical imaging, sattelite imaging
+- 💻📊 My roles are: team manager, software/ ML engineer, Data Scientist
 - 🌱 I’m currently studying masters AI and DS
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me basmadokk22@gmail.com
