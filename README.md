@@ -1,6 +1,6 @@
 - 👋 Hi, I’m basma dokkar
 - 👀 I’m interested in Complex patterns, optimization, medical imaging, sattelite imaging
-- 💻📊 My roles are: team manager, software/ ML engineer, Data Scientist
+- 💻📊 My roles are: team manager, Data engineer, Data Scientist, Content Creator, Code Instructor
 - 🌱 I’m currently working on personal projects related to medical imaging, optimization and mobile applications
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me basmadokk22@gmail.com
